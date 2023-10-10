@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"title": "Electronico-1",
+		"description": "Aparato electronico",
+		"price": 1500,
+		"thumbnail": "path-image",
+		"code": "01",
+		"stock": 50
+	},
+	{
+		"id": 2,
+		"title": "Electronico-2",
+		"description": "Aparato electronico Linea Blanca",
+		"price": 5000,
+		"thumbnail": "path-image",
+		"code": "02",
+		"stock": 100
+	},
+	{
+		"id": 3,
+		"title": "producto prueba",
+		"description": "Este es un producto prueba",
+		"price": 200,
+		"thumbnail": "Sin Imagen",
+		"code": "abc123",
+		"stock": 25
+	}
+]
